@@ -1,0 +1,15 @@
+Hi 👋, you can call me @ControlGama
+<br> 🧑🏽‍💻 I love all software development topics.
+<br> I like 🎧 music, 🎮 video games, 📚reading and ✨ learning new things.
+<br> 🌱 I’m currently learning Web Development at Platzi 
+<br>
+<br> 👉 These are my social networks:
+- <a href="https://twitter.com/ControlGama">Twitter</a> 
+- <a href="https://www.instagram.com/ControlGama/">Instagram</a>
+- <a href="www.linkedin.com/in/controlgama">LinkedIn</a>
+- My personal Web is under development😉 
+
+<!---
+ControlGama/ControlGama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
