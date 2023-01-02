@@ -5,12 +5,14 @@ Hi 👋, you can call me @ControlGama
 - 🎮 Video games 
 - 📚 Reading  
 - ✨ learning new things
-<br>
-<br> 👉 These are my social networks:
-- <a href="https://twitter.com/ControlGama">Twitter</a> 
-- <a href="https://www.instagram.com/ControlGama/">Instagram</a>
-- <a href="www.linkedin.com/in/controlgama">LinkedIn</a>
-- <a href="https://ControlGamaMX.com/">Web</a>
+<br> 
+👉 These are my social networks:
+<ul>
+<li><a href="https://twitter.com/ControlGama">Twitter</a></li>
+<li><a href="https://www.instagram.com/ControlGama/">Instagram</a></li>
+<li><a href="www.linkedin.com/in/controlgama">LinkedIn</a></li>
+<li><a href="https://ControlGamaMX.com/">Web</a></li>
+</ul>
 
 <!---
 ControlGama/ControlGama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
