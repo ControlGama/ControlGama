@@ -7,7 +7,7 @@ Hi 👋, you can call me @ControlGama
 - <a href="https://twitter.com/ControlGama">Twitter</a> 
 - <a href="https://www.instagram.com/ControlGama/">Instagram</a>
 - <a href="www.linkedin.com/in/controlgama">LinkedIn</a>
-- My personal Web is under development😉 
+- <a href="https://ControlGamaMX.com/">Web</a>
 
 <!---
 ControlGama/ControlGama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
