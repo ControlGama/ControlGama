@@ -1,7 +1,6 @@
 Hi 👋, you can call me @ControlGama
 <br> 🧑🏽‍💻 I love all software development topics.
 <br> I like 🎧 music, 🎮 video games, 📚reading and ✨ learning new things.
-<br> 🌱 I’m currently learning Web Development at Platzi 
 <br>
 <br> 👉 These are my social networks:
 - <a href="https://twitter.com/ControlGama">Twitter</a> 
